@@ -8,7 +8,7 @@ This repository contains the source code for a News App developed using Flutter.
 - **Category-wise News:** Users can explore news articles categorized into topics such as Technology, Business, Health, and more.
 - **Real-time Updates:** The app leverages an API to fetch real-time data, keeping users informed with the latest news.
 - **Responsive Design:** Built with Flutter, the app offers a responsive design that adapts to different screen sizes, providing a seamless experience on both phones and tablets.
-- **Search Functionality:** Users can search for specific topics or keywords to find articles of interest quickly.
+
 
 ## Tech Stack
 
